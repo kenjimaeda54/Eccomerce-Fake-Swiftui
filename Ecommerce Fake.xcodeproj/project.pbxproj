@@ -8,17 +8,47 @@
 
 /* Begin PBXBuildFile section */
 		8116AA762985E8A900C58EB9 /* Ecommerce_FakeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AA752985E8A900C58EB9 /* Ecommerce_FakeApp.swift */; };
-		8116AA782985E8A900C58EB9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AA772985E8A900C58EB9 /* ContentView.swift */; };
+		8116AA782985E8A900C58EB9 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AA772985E8A900C58EB9 /* Home.swift */; };
 		8116AA7A2985E8AA00C58EB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8116AA792985E8AA00C58EB9 /* Assets.xcassets */; };
 		8116AA7D2985E8AA00C58EB9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8116AA7C2985E8AA00C58EB9 /* Preview Assets.xcassets */; };
+		8116AA922985EA1A00C58EB9 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8116AA852985EA1A00C58EB9 /* Roboto-Medium.ttf */; };
+		8116AA932985EA1A00C58EB9 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8116AA862985EA1A00C58EB9 /* Roboto-Light.ttf */; };
+		8116AA942985EA1A00C58EB9 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8116AA872985EA1A00C58EB9 /* Roboto-Regular.ttf */; };
+		8116AA992985EA1A00C58EB9 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8116AA8C2985EA1A00C58EB9 /* Roboto-Italic.ttf */; };
+		8116AA9C2985EA1A00C58EB9 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8116AA8F2985EA1A00C58EB9 /* Roboto-Bold.ttf */; };
+		8116AA9D2985EA1A00C58EB9 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8116AA902985EA1A00C58EB9 /* Roboto-Thin.ttf */; };
+		8116AAA02985ED5800C58EB9 /* Ecommerce-Fake-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8116AA9F2985EBC700C58EB9 /* Ecommerce-Fake-Info.plist */; };
+		8116AAA42985EE0200C58EB9 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AAA32985EE0200C58EB9 /* Main.swift */; };
+		8116AAA62985EE2900C58EB9 /* Discover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AAA52985EE2900C58EB9 /* Discover.swift */; };
+		8116AAA82985EE3600C58EB9 /* Wishilist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AAA72985EE3600C58EB9 /* Wishilist.swift */; };
+		8116AAAA2985EE3F00C58EB9 /* Setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AAA92985EE3F00C58EB9 /* Setting.swift */; };
+		8116AAAC2985FAB400C58EB9 /* ExploreGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AAAB2985FAB400C58EB9 /* ExploreGridView.swift */; };
+		8116AAAF2985FB3300C58EB9 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AAAE2985FB3300C58EB9 /* Constants.swift */; };
+		8116AAB12985FDB800C58EB9 /* ExploreCategoryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AAB02985FDB800C58EB9 /* ExploreCategoryItemView.swift */; };
+		8116AAB42985FE7500C58EB9 /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8116AAB32985FE7500C58EB9 /* ProductModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		8116AA722985E8A900C58EB9 /* Ecommerce Fake.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ecommerce Fake.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8116AA752985E8A900C58EB9 /* Ecommerce_FakeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ecommerce_FakeApp.swift; sourceTree = "<group>"; };
-		8116AA772985E8A900C58EB9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8116AA772985E8A900C58EB9 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		8116AA792985E8AA00C58EB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8116AA7C2985E8AA00C58EB9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8116AA852985EA1A00C58EB9 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		8116AA862985EA1A00C58EB9 /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Light.ttf"; sourceTree = "<group>"; };
+		8116AA872985EA1A00C58EB9 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		8116AA8C2985EA1A00C58EB9 /* Roboto-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Italic.ttf"; sourceTree = "<group>"; };
+		8116AA8F2985EA1A00C58EB9 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		8116AA902985EA1A00C58EB9 /* Roboto-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Thin.ttf"; sourceTree = "<group>"; };
+		8116AA9F2985EBC700C58EB9 /* Ecommerce-Fake-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Ecommerce-Fake-Info.plist"; sourceTree = SOURCE_ROOT; };
+		8116AAA32985EE0200C58EB9 /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
+		8116AAA52985EE2900C58EB9 /* Discover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Discover.swift; sourceTree = "<group>"; };
+		8116AAA72985EE3600C58EB9 /* Wishilist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wishilist.swift; sourceTree = "<group>"; };
+		8116AAA92985EE3F00C58EB9 /* Setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Setting.swift; sourceTree = "<group>"; };
+		8116AAAB2985FAB400C58EB9 /* ExploreGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreGridView.swift; sourceTree = SOURCE_ROOT; };
+		8116AAAE2985FB3300C58EB9 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		8116AAB02985FDB800C58EB9 /* ExploreCategoryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreCategoryItemView.swift; sourceTree = SOURCE_ROOT; };
+		8116AAB32985FE7500C58EB9 /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +81,13 @@
 		8116AA742985E8A900C58EB9 /* Ecommerce Fake */ = {
 			isa = PBXGroup;
 			children = (
-				8116AA752985E8A900C58EB9 /* Ecommerce_FakeApp.swift */,
-				8116AA772985E8A900C58EB9 /* ContentView.swift */,
+				8116AAB22985FE6600C58EB9 /* Model */,
+				8116AAAD2985FB0B00C58EB9 /* Utility */,
+				8116AAA22985EDE000C58EB9 /* View */,
+				8116AAA12985EDDB00C58EB9 /* app */,
+				8116AA832985EA0F00C58EB9 /* fonts */,
 				8116AA792985E8AA00C58EB9 /* Assets.xcassets */,
+				8116AA9F2985EBC700C58EB9 /* Ecommerce-Fake-Info.plist */,
 				8116AA7B2985E8AA00C58EB9 /* Preview Content */,
 			);
 			path = "Ecommerce Fake";
@@ -65,6 +99,57 @@
 				8116AA7C2985E8AA00C58EB9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8116AA832985EA0F00C58EB9 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8116AA852985EA1A00C58EB9 /* Roboto-Medium.ttf */,
+				8116AA862985EA1A00C58EB9 /* Roboto-Light.ttf */,
+				8116AA872985EA1A00C58EB9 /* Roboto-Regular.ttf */,
+				8116AA8C2985EA1A00C58EB9 /* Roboto-Italic.ttf */,
+				8116AA8F2985EA1A00C58EB9 /* Roboto-Bold.ttf */,
+				8116AA902985EA1A00C58EB9 /* Roboto-Thin.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		8116AAA12985EDDB00C58EB9 /* app */ = {
+			isa = PBXGroup;
+			children = (
+				8116AA772985E8A900C58EB9 /* Home.swift */,
+				8116AA752985E8A900C58EB9 /* Ecommerce_FakeApp.swift */,
+				8116AAA32985EE0200C58EB9 /* Main.swift */,
+				8116AAA52985EE2900C58EB9 /* Discover.swift */,
+				8116AAA72985EE3600C58EB9 /* Wishilist.swift */,
+				8116AAA92985EE3F00C58EB9 /* Setting.swift */,
+			);
+			path = app;
+			sourceTree = "<group>";
+		};
+		8116AAA22985EDE000C58EB9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8116AAAB2985FAB400C58EB9 /* ExploreGridView.swift */,
+				8116AAB02985FDB800C58EB9 /* ExploreCategoryItemView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		8116AAAD2985FB0B00C58EB9 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				8116AAAE2985FB3300C58EB9 /* Constants.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		8116AAB22985FE6600C58EB9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8116AAB32985FE7500C58EB9 /* ProductModel.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +210,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8116AA9D2985EA1A00C58EB9 /* Roboto-Thin.ttf in Resources */,
+				8116AA9C2985EA1A00C58EB9 /* Roboto-Bold.ttf in Resources */,
 				8116AA7D2985E8AA00C58EB9 /* Preview Assets.xcassets in Resources */,
 				8116AA7A2985E8AA00C58EB9 /* Assets.xcassets in Resources */,
+				8116AA942985EA1A00C58EB9 /* Roboto-Regular.ttf in Resources */,
+				8116AA932985EA1A00C58EB9 /* Roboto-Light.ttf in Resources */,
+				8116AA992985EA1A00C58EB9 /* Roboto-Italic.ttf in Resources */,
+				8116AAA02985ED5800C58EB9 /* Ecommerce-Fake-Info.plist in Resources */,
+				8116AA922985EA1A00C58EB9 /* Roboto-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +229,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8116AA782985E8A900C58EB9 /* ContentView.swift in Sources */,
+				8116AAA62985EE2900C58EB9 /* Discover.swift in Sources */,
+				8116AAA82985EE3600C58EB9 /* Wishilist.swift in Sources */,
+				8116AAB12985FDB800C58EB9 /* ExploreCategoryItemView.swift in Sources */,
+				8116AAAC2985FAB400C58EB9 /* ExploreGridView.swift in Sources */,
+				8116AAAA2985EE3F00C58EB9 /* Setting.swift in Sources */,
+				8116AAA42985EE0200C58EB9 /* Main.swift in Sources */,
+				8116AA782985E8A900C58EB9 /* Home.swift in Sources */,
 				8116AA762985E8A900C58EB9 /* Ecommerce_FakeApp.swift in Sources */,
+				8116AAAF2985FB3300C58EB9 /* Constants.swift in Sources */,
+				8116AAB42985FE7500C58EB9 /* ProductModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,11 +370,12 @@
 				DEVELOPMENT_TEAM = R555F6422X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Ecommerce-Fake-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,11 +400,12 @@
 				DEVELOPMENT_TEAM = R555F6422X;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Ecommerce-Fake-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

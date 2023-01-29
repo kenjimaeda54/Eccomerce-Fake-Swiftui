@@ -11,7 +11,7 @@ import SwiftUI
 struct Ecommerce_FakeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Main()
         }
     }
 }
